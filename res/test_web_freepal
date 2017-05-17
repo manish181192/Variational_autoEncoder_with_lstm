@@ -1,0 +1,346 @@
+$ARG1 party party $ARG2 	0	organization.organization_scope.organizations_with_this_scope
+$ARG1 $ARG2 flag 	0	organization.organization_scope.organizations_with_this_scope
+in $ARG1 form $ARG2 	0	organization.organization_scope.organizations_with_this_scope
+visit $ARG1 as guest of $ARG2 	0	organization.organization_scope.organizations_with_this_scope
+president of $ARG1 head of $ARG2 	0	organization.organization_scope.organizations_with_this_scope
+in $ARG1 election $ARG2 win 	0	organization.organization_scope.organizations_with_this_scope
+drive out of $ARG1 by $ARG2 	0	organization.organization_scope.organizations_with_this_scope
+$ARG1 party be $ARG2 	0	organization.organization_scope.organizations_with_this_scope
+$ARG1 organisation $ARG2 	0	organization.organization_scope.organizations_with_this_scope
+$ARG1 $ARG2 historian 	1	people.person.nationality
+$ARG1 $ARG2 champion 	1	people.person.nationality
+$ARG1 of university in $ARG2 	1	people.person.nationality
+$ARG1 $ARG2 star 	1	people.person.nationality
+$ARG1 $ARG2 officer 	1	people.person.nationality
+$ARG1 say $ARG2 want 	1	people.person.nationality
+$ARG1 $ARG2 politician 	1	people.person.nationality
+$ARG1 be $ARG2 senator 	1	people.person.nationality
+$ARG1 say $ARG2 continue 	1	people.person.nationality
+$ARG1 be man in $ARG2 	1	people.person.nationality
+$ARG1 be $ARG2 actor 	1	people.person.nationality
+daughter of $ARG1 $ARG2 	2	people.marriage.spouse
+$ARG1 $ARG2 companion 	2	people.marriage.spouse
+$ARG1 live with husband $ARG2 	2	people.marriage.spouse
+$ARG1 wife be $ARG2 	2	people.marriage.spouse
+$ARG1 file from $ARG2 	2	people.marriage.spouse
+$ARG1 $ARG2 husband 	2	people.marriage.spouse
+$ARG1 $ARG2 wedding 	2	people.marriage.spouse
+$ARG1 survive by wife $ARG2 	2	people.marriage.spouse
+$ARG1 meet husband $ARG2 	2	people.marriage.spouse
+$ARG1 bring from around $ARG2 	3	organization.organization.headquarters
+position at $ARG1 in $ARG2 	3	organization.organization.headquarters
+$ARG1 have office in $ARG2 	3	organization.organization.headquarters
+$ARG1 department in $ARG2 	3	organization.organization.headquarters
+$ARG1 in madison $ARG2 	3	organization.organization.headquarters
+$ARG1 in orleans $ARG2 	3	organization.organization.headquarters
+$ARG1 in $ARG2 s. 	3	organization.organization.headquarters
+$ARG1 in clara $ARG2 	3	organization.organization.headquarters
+$ARG1 be school locate in $ARG2 	3	organization.organization.headquarters
+$ARG1 be #crd# of organization in $ARG2 	3	organization.organization.headquarters
+$ARG1 of law $ARG2 	3	organization.organization.headquarters
+be president of $ARG1 in $ARG2 	3	organization.organization.headquarters
+$ARG1 centre in $ARG2 	3	organization.organization.headquarters
+limited $ARG1 be provider in $ARG2 	3	organization.organization.headquarters
+$ARG1 be institution in state of $ARG2 	3	organization.organization.headquarters
+$ARG1 group in $ARG2 	3	organization.organization.headquarters
+$ARG1 fly from $ARG2 	3	organization.organization.headquarters
+$ARG1 in baltimore $ARG2 	3	organization.organization.headquarters
+accord to $ARG1 affect $ARG2 	3	organization.organization.headquarters
+$ARG1 have chapter in $ARG2 	3	organization.organization.headquarters
+$ARG1 factory in $ARG2 	3	organization.organization.headquarters
+director at $ARG1 in $ARG2 	3	organization.organization.headquarters
+$ARG1 in miami $ARG2 	3	organization.organization.headquarters
+$ARG1 in austin $ARG2 	3	organization.organization.headquarters
+$ARG1 agency in $ARG2 	3	organization.organization.headquarters
+accord to $ARG1 $ARG2 diagnose 	3	organization.organization.headquarters
+$ARG1 company base in $ARG2 	3	organization.organization.headquarters
+$ARG1 inc. $ARG2 	3	organization.organization.headquarters
+$ARG1 be not-for-profit 0-year in $ARG2 	3	organization.organization.headquarters
+$ARG1 in louisville $ARG2 	3	organization.organization.headquarters
+$ARG1 louis $ARG2 	3	organization.organization.headquarters
+$ARG1 in cincinnati $ARG2 	3	organization.organization.headquarters
+institute $ARG1 organization in $ARG2 	3	organization.organization.headquarters
+$ARG1 found headquarter in $ARG2 	3	organization.organization.headquarters
+$ARG1 #crd# of association in $ARG2 	3	organization.organization.headquarters
+$ARG1 denomination in $ARG2 	3	organization.organization.headquarters
+$ARG1 $ARG2 base organization 	3	organization.organization.headquarters
+$ARG1 $ARG2 inc. executive 	4	organization.organization_board_membership.organization
+$ARG1 serve on board of director for $ARG2 	4	organization.organization_board_membership.organization
+$ARG1 elect chairman of $ARG2 board 	4	organization.organization_board_membership.organization
+$ARG1 serve include $ARG2 	4	organization.organization_board_membership.organization
+$ARG1 serve on board for $ARG2 	4	organization.organization_board_membership.organization
+$ARG1 chair of board of $ARG2 	4	organization.organization_board_membership.organization
+$ARG1 be director of corporation $ARG2 	4	organization.organization_board_membership.organization
+$ARG1 resign from $ARG2 board 	4	organization.organization_board_membership.organization
+$ARG1 become chairman of $ARG2 	4	organization.organization_board_membership.organization
+$ARG1 be member of board of director of $ARG2 	4	organization.organization_board_membership.organization
+$ARG1 serve as chairman for $ARG2 	4	organization.organization_board_membership.organization
+takeover of $ARG1 by $ARG2 	5	organization.organization_relationship.parent
+service $ARG1 of $ARG2 	5	organization.organization_relationship.parent
+$ARG1 be business of $ARG2 	5	organization.organization_relationship.parent
+$ARG1 be part of $ARG2 group 	5	organization.organization_relationship.parent
+$ARG1 be organization of $ARG2 	5	organization.organization_relationship.parent
+$ARG1 company acquire by $ARG2 	5	organization.organization_relationship.parent
+$ARG1 be arm of $ARG2 	5	organization.organization_relationship.parent
+$ARG1 brand of $ARG2 	5	organization.organization_relationship.parent
+$ARG1 affiliate of $ARG2 	5	organization.organization_relationship.parent
+$ARG1 at institute $ARG2 	5	organization.organization_relationship.parent
+$ARG1 sell to $ARG2 	5	organization.organization_relationship.parent
+$ARG1 be agency of $ARG2 	5	organization.organization_relationship.parent
+descend from $ARG1 from $ARG2 	6	people.sibling_relationship.sibling
+$ARG1 be with brother $ARG2 	6	people.sibling_relationship.sibling
+$ARG1 have brother $ARG2 	6	people.sibling_relationship.sibling
+$ARG1 name brother $ARG2 	6	people.sibling_relationship.sibling
+$ARG1 appoint brother $ARG2 	6	people.sibling_relationship.sibling
+$ARG1 $ARG2 mother 	6	people.sibling_relationship.sibling
+$ARG1 be brother $ARG2 	6	people.sibling_relationship.sibling
+wife $ARG1 sister of $ARG2 	6	people.sibling_relationship.sibling
+$ARG1 brother to $ARG2 	6	people.sibling_relationship.sibling
+$ARG1 half-sister of $ARG2 	6	people.sibling_relationship.sibling
+$ARG1 send brother $ARG2 	6	people.sibling_relationship.sibling
+$ARG1 #crd# of leader of $ARG2 	7	organization.organization_founder.organizations_founded
+$ARG1 $ARG2 empire 	7	organization.organization_founder.organizations_founded
+found by $ARG1 $ARG2 have 	7	organization.organization_founder.organizations_founded
+succeed $ARG1 as head of $ARG2 	7	organization.organization_founder.organizations_founded
+$ARG1 leader of $ARG2 movement 	7	organization.organization_founder.organizations_founded
+produce by $ARG1 for $ARG2 	7	organization.organization_founder.organizations_founded
+$ARG1 co-founder president of $ARG2 	7	organization.organization_founder.organizations_founded
+$ARG1 co-founders of $ARG2 	7	organization.organization_founder.organizations_founded
+along with $ARG1 found $ARG2 	7	organization.organization_founder.organizations_founded
+$ARG1 $ARG2 firm 	7	organization.organization_founder.organizations_founded
+produce by $ARG1 at $ARG2 	7	organization.organization_founder.organizations_founded
+$ARG1 family live in $ARG2 	8	people.person.places_lived
+$ARG1 bear in state of $ARG2 	8	people.person.places_lived
+$ARG1 film in $ARG2 	8	people.person.places_lived
+$ARG1 bear grow in $ARG2 	8	people.person.places_lived
+$ARG1 leader from $ARG2 	8	people.person.places_lived
+$ARG1 say from $ARG2 	8	people.person.places_lived
+$ARG1 say in interview from $ARG2 	8	people.person.places_lived
+$ARG1 mansion in $ARG2 	8	people.person.places_lived
+$ARG1 live in $ARG2 area 	8	people.person.places_lived
+$ARG1 begin career in $ARG2 	8	people.person.places_lived
+$ARG1 both of $ARG2 	8	people.person.places_lived
+$ARG1 have home in $ARG2 	8	people.person.places_lived
+$ARG1 supporter in $ARG2 	8	people.person.places_lived
+$ARG1 be representative from $ARG2 	8	people.person.places_lived
+$ARG1 company found by $ARG2 	9	organization.organization.founders
+$ARG1 found with $ARG2 	9	organization.organization.founders
+cofounded $ARG1 with $ARG2 	9	organization.organization.founders
+$ARG1 run by $ARG2 	9	organization.organization.founders
+$ARG1 under leadership of $ARG2 be 	9	organization.organization.founders
+$ARG1 assessment recommendation on challenge face by $ARG2 	10	organization.organization_membership.member
+$ARG1 summit in $ARG2 	10	organization.organization_membership.member
+$ARG1 country be $ARG2 	10	organization.organization_membership.member
+$ARG1 strategy for $ARG2 	10	organization.organization_membership.member
+$ARG1 publication in $ARG2 	10	organization.organization_membership.member
+$ARG1 envoy to $ARG2 	10	organization.organization_membership.member
+in $ARG1 state in $ARG2 	10	organization.organization_membership.member
+$ARG1 involvement in $ARG2 	10	organization.organization_membership.member
+member of $ARG1 like $ARG2 	10	organization.organization_membership.member
+$ARG1 government include $ARG2 	10	organization.organization_membership.member
+$ARG1 hold summit in $ARG2 	10	organization.organization_membership.member
+since join $ARG1 $ARG2 be 	10	organization.organization_membership.member
+$ARG1 pilot in $ARG2 	10	organization.organization_membership.member
+$ARG1 be member of nation $ARG2 	11	organization.organization_member.member_of
+$ARG1 become member of $ARG2 	11	organization.organization_member.member_of
+role of $ARG1 within $ARG2 	11	organization.organization_member.member_of
+$ARG1 as member of $ARG2 	11	organization.organization_member.member_of
+$ARG1 organization $ARG2 	11	organization.organization_member.member_of
+$ARG1 $ARG2 force 	11	organization.organization_member.member_of
+$ARG1 become $ARG2 country 	11	organization.organization_member.member_of
+$ARG1 receive b.s. $ARG2 	12	people.person.education
+study with $ARG1 at $ARG2 	12	people.person.education
+$ARG1 have ph.d. from $ARG2 	12	people.person.education
+$ARG1 grow graduate from $ARG2 	12	people.person.education
+$ARG1 hold degree in $ARG2 	12	people.person.education
+$ARG1 mater $ARG2 	12	people.person.education
+$ARG1 hold b in $ARG2 	12	people.person.education
+$ARG1 grow attend $ARG2 	12	people.person.education
+$ARG1 receive b.s. in $ARG2 	12	people.person.education
+$ARG1 hold degree from $ARG2 	12	people.person.education
+$ARG1 hold mba $ARG2 	12	people.person.education
+$ARG1 bear attend $ARG2 	12	people.person.education
+$ARG1 earn phd in $ARG2 	12	people.person.education
+$ARG1 meet at $ARG2 	12	people.person.education
+$ARG1 hold bachelor in $ARG2 	12	people.person.education
+$ARG1 remain at $ARG2 	12	people.person.education
+$ARG1 graduate receive $ARG2 	12	people.person.education
+$ARG1 go at $ARG2 	12	people.person.education
+$ARG1 be $ARG2 graduate 	12	people.person.education
+student of $ARG1 at $ARG2 	12	people.person.education
+$ARG1 be subsidiary of $ARG2 	13	organization.organization.parent
+$ARG1 wing of $ARG2 	13	organization.organization.parent
+$ARG1 venture between $ARG2 	13	organization.organization.parent
+$ARG1 sell to $ARG2 	13	organization.organization.parent
+$ARG1 $ARG2 division 	13	organization.organization.parent
+sale of $ARG1 to $ARG2 	13	organization.organization.parent
+$ARG1 venture of $ARG2 	13	organization.organization.parent
+$ARG1 brand of $ARG2 	13	organization.organization.parent
+$ARG1 be brand of $ARG2 	13	organization.organization.parent
+bureau $ARG1 $ARG2 	13	organization.organization.parent
+$ARG1 be campus of $ARG2 	13	organization.organization.parent
+$ARG1 be component of $ARG2 	13	organization.organization.parent
+$ARG1 share vision for $ARG2 	14	organization.leadership.organization
+$ARG1 be in year as president of $ARG2 	14	organization.leadership.organization
+installation of $ARG1 as $ARG2 president 	14	organization.leadership.organization
+$ARG1 president/ceo of $ARG2 	14	organization.leadership.organization
+$ARG1 council of $ARG2 	14	organization.leadership.organization
+$ARG1 professor in $ARG2 	14	organization.leadership.organization
+professor of law $ARG1 at $ARG2 	14	organization.leadership.organization
+$ARG1 select as president of $ARG2 	14	organization.leadership.organization
+$ARG1 name as president of $ARG2 	14	organization.leadership.organization
+$ARG1 council at $ARG2 	14	organization.leadership.organization
+$ARG1 president of institute $ARG2 	14	organization.leadership.organization
+$ARG1 phd president of $ARG2 	14	organization.leadership.organization
+$ARG1 principal of $ARG2 	14	organization.leadership.organization
+vote $ARG1 in $ARG2 	15	organization.organization.geographic_scope
+$ARG1 be party of $ARG2 	15	organization.organization.geographic_scope
+$ARG1 #crd# of party in $ARG2 	15	organization.organization.geographic_scope
+$ARG1 $ARG2 front 	15	organization.organization.geographic_scope
+$ARG1 be $ARG2 organisation 	15	organization.organization.geographic_scope
+recognize $ARG1 as government of $ARG2 	15	organization.organization.geographic_scope
+$ARG1 guerrilla in $ARG2 	15	organization.organization.geographic_scope
+$ARG1 federation in $ARG2 	15	organization.organization.geographic_scope
+$ARG1 be $ARG2 movement 	15	organization.organization.geographic_scope
+$ARG1 economist at $ARG2 	16	people.person.employment_history
+$ARG1 bos of $ARG2 	16	people.person.employment_history
+$ARG1 $ARG2 chief 	16	people.person.employment_history
+$ARG1 hold at $ARG2 	16	people.person.employment_history
+$ARG1 become chairman of $ARG2 	16	people.person.employment_history
+$ARG1 serve at $ARG2 	16	people.person.employment_history
+$ARG1 $ARG2 scientist 	16	people.person.employment_history
+$ARG1 $ARG2 ceo 	16	people.person.employment_history
+$ARG1 be professor in department at $ARG2 	16	people.person.employment_history
+$ARG1 be $ARG2 justice 	17	people.person.ethnicity
+$ARG1 $ARG2 horde 	17	people.person.ethnicity
+$ARG1 leader of $ARG2 community 	17	people.person.ethnicity
+$ARG1 leader of $ARG2 tribe 	17	people.person.ethnicity
+$ARG1 grow in $ARG2 household 	17	people.person.ethnicity
+$ARG1 be from $ARG2 tribe 	17	people.person.ethnicity
+$ARG1 bear be $ARG2 	17	people.person.ethnicity
+$ARG1 $ARG2 warlord 	17	people.person.ethnicity
+$ARG1 raise in $ARG2 family 	17	people.person.ethnicity
+grant from $ARG1 $ARG2 	18	organization.organization_relationship.child
+$ARG1 ownership of $ARG2 	18	organization.organization_relationship.child
+$ARG1 own % of $ARG2 	18	organization.organization_relationship.child
+$ARG1 service $ARG2 	18	organization.organization_relationship.child
+administration $ARG1 $ARG2 	18	organization.organization_relationship.child
+$ARG1 stake in $ARG2 	18	organization.organization_relationship.child
+$ARG1 company of $ARG2 	18	organization.organization_relationship.child
+$ARG1 of health $ARG2 	18	organization.organization_relationship.child
+$ARG1 complete acquisition of $ARG2 	18	organization.organization_relationship.child
+$ARG1 acquire $ARG2 	18	organization.organization_relationship.child
+$ARG1 be son brother of $ARG2 	19	people.person.sibling_s
+$ARG1 have sister $ARG2 	19	people.person.sibling_s
+$ARG1 bear $ARG2 bear 	19	people.person.sibling_s
+$ARG1 send brother $ARG2 	19	people.person.sibling_s
+sister of $ARG1 $ARG2 	19	people.person.sibling_s
+$ARG1 succeed by brother $ARG2 	19	people.person.sibling_s
+$ARG1 #crd# of $ARG2 brother 	19	people.person.sibling_s
+$ARG1 bear on 0th 0 in $ARG2 	20	people.person.place_of_birth
+$ARG1 mayor of $ARG2 	20	people.person.place_of_birth
+$ARG1 bishop of $ARG2 	20	people.person.place_of_birth
+$ARG1 bear august 0 in $ARG2 	20	people.person.place_of_birth
+$ARG1 bear near $ARG2 	20	people.person.place_of_birth
+$ARG1 artist from $ARG2 	20	people.person.place_of_birth
+$ARG1 0-year-old from $ARG2 	20	people.person.place_of_birth
+$ARG1 bear january 0 in $ARG2 	20	people.person.place_of_birth
+$ARG1 b. in $ARG2 	20	people.person.place_of_birth
+$ARG1 player from $ARG2 	20	people.person.place_of_birth
+$ARG1 b. $ARG2 	20	people.person.place_of_birth
+$ARG1 carrier $ARG2 	21	organization.organization.child
+$ARG1 brand include $ARG2 	21	organization.organization.child
+$ARG1 own stake in $ARG2 	21	organization.organization.child
+$ARG1 be shareholder of $ARG2 	21	organization.organization.child
+$ARG1 scoop $ARG2 	21	organization.organization.child
+$ARG1 company own $ARG2 	21	organization.organization.child
+$ARG1 stake in $ARG2 	21	organization.organization.child
+$ARG1 $ARG2 acquisition 	21	organization.organization.child
+$ARG1 announce buy $ARG2 	21	organization.organization.child
+$ARG1 store $ARG2 	21	organization.organization.child
+own by $ARG1 $ARG2 be 	21	organization.organization.child
+$ARG1 live $ARG2 live 	22	people.person.children
+$ARG1 of son $ARG2 	22	people.person.children
+grandson of $ARG1 son of $ARG2 	22	people.person.children
+marry $ARG1 have son $ARG2 	22	people.person.children
+$ARG1 give to child $ARG2 	22	people.person.children
+$ARG1 sister of $ARG2 	22	people.person.children
+$ARG1 mother $ARG2 	22	people.person.children
+marry $ARG1 have child $ARG2 	22	people.person.children
+wife $ARG1 son $ARG2 	22	people.person.children
+$ARG1 die $ARG2 be 	22	people.person.children
+$ARG1 $ARG2 companion 	23	people.person.spouse_s
+$ARG1 live with husband $ARG2 	23	people.person.spouse_s
+$ARG1 begin date $ARG2 	23	people.person.spouse_s
+$ARG1 marriage to $ARG2 	23	people.person.spouse_s
+$ARG1 $ARG2 child 	23	people.person.spouse_s
+$ARG1 $ARG2 widow 	23	people.person.spouse_s
+$ARG1 queen $ARG2 	23	people.person.spouse_s
+$ARG1 divorce from $ARG2 	23	people.person.spouse_s
+$ARG1 be widow of $ARG2 	23	people.person.spouse_s
+daughter $ARG1 marry $ARG2 	23	people.person.spouse_s
+$ARG1 husband of $ARG2 	23	people.person.spouse_s
+$ARG1 marriage with $ARG2 	23	people.person.spouse_s
+marry $ARG1 in ceremony in $ARG2 	23	people.person.spouse_s
+$ARG1 economy $ARG2 	24	organization.membership_organization.members
+$ARG1 summit in $ARG2 	24	organization.membership_organization.members
+member of $ARG1 as $ARG2 	24	organization.membership_organization.members
+$ARG1 sanction against $ARG2 	24	organization.membership_organization.members
+$ARG1 pressure on $ARG2 	24	organization.membership_organization.members
+$ARG1 have mission in $ARG2 	24	organization.membership_organization.members
+$ARG1 initiative in $ARG2 	24	organization.membership_organization.members
+$ARG1 report on $ARG2 	24	organization.membership_organization.members
+$ARG1 country canada $ARG2 	24	organization.membership_organization.members
+ambassador to $ARG1 from $ARG2 	24	organization.membership_organization.members
+organisation $ARG1 $ARG2 	24	organization.membership_organization.members
+$ARG1 representative for $ARG2 	24	organization.membership_organization.members
+$ARG1 minister meet in $ARG2 	24	organization.membership_organization.members
+$ARG1 congratulate say $ARG2 	25	organization.leadership.person
+$ARG1 interim president $ARG2 	25	organization.leadership.person
+$ARG1 introduce say $ARG2 	25	organization.leadership.person
+at $ARG1 work say $ARG2 	25	organization.leadership.person
+$ARG1 board appoint $ARG2 	25	organization.leadership.person
+position $ARG1 say $ARG2 	25	organization.leadership.person
+be opportunity for $ARG1 say $ARG2 	25	organization.leadership.person
+$ARG1 name president $ARG2 	25	organization.leadership.person
+$ARG1 appreciate say $ARG2 	25	organization.leadership.person
+$ARG1 bear be son of $ARG2 	26	people.person.parents
+$ARG1 successor of $ARG2 	26	people.person.parents
+$ARG1 inherit from father $ARG2 	26	people.person.parents
+$ARG1 $ARG2 child 	26	people.person.parents
+$ARG1 bear to $ARG2 	26	people.person.parents
+$ARG1 parent be $ARG2 	26	people.person.parents
+bear $ARG1 to $ARG2 	26	people.person.parents
+$ARG1 be child $ARG2 	26	people.person.parents
+$ARG1 bear father $ARG2 be 	26	people.person.parents
+$ARG1 host $ARG2 conference 	27	organization.organization_membership.organization
+$ARG1 accede to $ARG2 	27	organization.organization_membership.organization
+$ARG1 representative to $ARG2 	27	organization.organization_membership.organization
+$ARG1 want join $ARG2 	27	organization.organization_membership.organization
+$ARG1 take presidency of $ARG2 	27	organization.organization_membership.organization
+$ARG1 as member of $ARG2 	27	organization.organization_membership.organization
+$ARG1 be #crd# of $ARG2 member 	27	organization.organization_membership.organization
+$ARG1 defy $ARG2 	27	organization.organization_membership.organization
+$ARG1 host $ARG2 meeting 	27	organization.organization_membership.organization
+mission of $ARG1 to $ARG2 	27	organization.organization_membership.organization
+$ARG1 chair $ARG2 	27	organization.organization_membership.organization
+$ARG1 have support of $ARG2 	27	organization.organization_membership.organization
+$ARG1 become $ARG2 member 	27	organization.organization_membership.organization
+$ARG1 director general $ARG2 	28	organization.organization.leadership
+$ARG1 provost $ARG2 	28	organization.organization.leadership
+$ARG1 say appoint $ARG2 	28	organization.organization.leadership
+bring to $ARG1 say $ARG2 	28	organization.organization.leadership
+be achievement for $ARG1 say $ARG2 	28	organization.organization.leadership
+$ARG1 congratulate say $ARG2 	28	organization.organization.leadership
+be for $ARG1 say $ARG2 	28	organization.organization.leadership
+$ARG1 #crd# of figure of $ARG2 	29	people.person.religion
+$ARG1 $ARG2 extremist 	29	people.person.religion
+$ARG1 leader of $ARG2 community 	29	people.person.religion
+$ARG1 philosophy of $ARG2 	29	people.person.religion
+$ARG1 spread $ARG2 	29	people.person.religion
+$ARG1 $ARG2 terrorist 	29	people.person.religion
+$ARG1 baptize into $ARG2 	29	people.person.religion
+$ARG1 brand of $ARG2 	29	people.person.religion
+$ARG1 founder of $ARG2 faith 	29	people.person.religion
+$ARG1 be opponent of $ARG2 	29	people.person.religion
+$ARG1 $ARG2 sage 	29	people.person.religion
